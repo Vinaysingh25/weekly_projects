@@ -1,6 +1,6 @@
 '''
 Author: Vinayak Singh
-
+Week 6-12th May 2018
 '''
 
 import urllib.request, urllib.parse, urllib.error
@@ -44,6 +44,7 @@ while len(master_list) > 0:
                 master_list.append(list)
 
 print(len(master_list))
+
 
 
 
