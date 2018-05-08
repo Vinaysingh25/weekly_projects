@@ -1,6 +1,7 @@
 '''
 Author: Vinayak Singh
 Week: 6th - 12th May 2018
+Functionality: 
 '''
 
 import urllib.request, urllib.parse, urllib.error
