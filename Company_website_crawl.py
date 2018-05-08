@@ -1,6 +1,8 @@
 '''
 Author: Vinayak Singh
-Week 6-12th May 2018
+Week: 6-12th May 2018
+Functionality: This base crawler can crawl your company website and prove you all the other pages releated to these pages
+                This is a base exercise you can crawl all the linked the pages and later do further activites like auto webpage tagging
 '''
 
 import urllib.request, urllib.parse, urllib.error
