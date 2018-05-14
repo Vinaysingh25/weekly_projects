@@ -2,6 +2,7 @@
 
 # https://apps.twitter.com/
 # Create new App and get the four strings
+# TODO: Change this as per your requirements
 
 def oauth():
     return {"consumer_key": "h7Lu...Ng",
