@@ -1,0 +1,1 @@
+This projects illustrates all the ways you can use SQL functionalities in `python` and how you can connect the exisitng database
